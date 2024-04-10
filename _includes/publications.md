@@ -13,7 +13,7 @@
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">{{ link.conference_short }} {{ link.title }}</div>
+      <div class="title"><a {{ link.conference_short }} {{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
