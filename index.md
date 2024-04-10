@@ -31,4 +31,3 @@ Before this, I received my B.S. degree in Communication Engineering at Chongqing
 
 
 
-{% include_relative _includes/services.md %}
