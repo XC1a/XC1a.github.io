@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a M.E. student at Nanjing University <a href="{{ https://www.nju.edu.cn/en/ }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">(NJU)</a>. I am working under the supervison with Lang Feng and Zhongfeng Wang.
+I am a M.E. student at Nanjing University <a href="https://www.nju.edu.cn/en/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">(NJU)</a>. I am working under the supervison with Lang Feng and Zhongfeng Wang.
 Before this, I received my B.S. degree in Communication Engineering at Chongqing University (CQU).
 
 ## Research Interests
