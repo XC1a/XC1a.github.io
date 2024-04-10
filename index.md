@@ -25,9 +25,6 @@ Before this, I received my B.S. degree in Communication Engineering at Chongqing
   <br>
   [[Paper](https://ieeexplore.ieee.org/document/10110921)]
 
-## Project Experience
-
-- **[Feb. 2020]** xxx
 
 ## Awards
 
