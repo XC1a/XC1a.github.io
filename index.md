@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a M.E. student at Nanjing University <a href="{{ https://www.nju.edu.cn/en/ }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">(NJU)</a>. I am working under the supervison with Lang Feng and Zhongfeng Wang.
+Before this, I received my B.S. degree in Communication Engineering at Chongqing University (CQU).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Architecture Security:** hardware-assisted security, trusted execution environment, chiplet interconnecting system
 
-## News
+## Project Experience
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+
 
 {% include_relative _includes/publications.md %}
 
