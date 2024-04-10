@@ -6,7 +6,7 @@ main:
     conference: IEEE Transactions on Computers
     pdf: https://ieeexplore.ieee.org/document/10338829
 
-  - title: ProMiSE: A High-Performance Programmable Hardware Monitor for High Security Enforcement of Software Execution
+  - title: "ProMiSE: A High-Performance Programmable Hardware Monitor for High Security Enforcement of Software Execution"
     authors: <strong>Xinrui Wang</strong>, Lang Feng*, Zhongfeng Wang* (*Corresponding authors)
     conference_short: TCAD[23]
     conference: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
