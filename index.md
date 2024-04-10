@@ -29,7 +29,7 @@ Before this, I received my B.S. degree in Communication Engineering at Chongqing
 
 - **[Feb. 2020]** xxx
 
-## Rewards
+## Awards
 
 - **[OCT. 2023]** National Inspiration Scholarship, *[by Xiao Corporation]*
 - **[OCT. 2022/2023]** The First Prize Scholarship of Graduate Student, *[by Nanjing University]*
