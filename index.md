@@ -28,7 +28,10 @@ Before this, I received my B.S. degree in Communication Engineering at Chongqing
 ## Project Experience
 
 - **[Feb. 2020]** xxx
-- **[Feb. 2020]** xxx
 
 ## Rewards
-- **[Feb. 2019]**
+
+- **[OCT. 2023]** National Inspiration Scholarship <font size=10>[by Xiao Corporation]</font>
+- **[OCT. 2022/2023]** The First Prize Scholarship of Graduate Student <font size=10>[by Nanjing University]</font>
+- **[OCT. 2020]** National Inspiration Scholarship <font size=10>[by China Goverment]</font>
+- **[OCT. 2020]** The 3rd Prize of Intel Cup Undergraduate Electronic Deisgn Contest <font size=10>[by Intel Corporation]</font>
