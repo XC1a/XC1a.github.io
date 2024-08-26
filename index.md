@@ -13,6 +13,12 @@ Before this, I received my B.S. degree in Communication Engineering at Chongqing
 - **Computer Architecture Security:** hardware-assisted security, trusted execution environment, chiplet interconnecting system
 
 ## Publications
+- **[TCAD24]** PreSIT: Predict Cryptography Computations in SGX-Style Integrity Trees (Early Access)
+  <br>
+  **Xinrui Wang**, Lang Feng, Zhongfeng Wang
+  <br>
+  [[Paper](https://ieeexplore.ieee.org/document/10643555)]
+
 - **[TC24]** RISC-V Custom Instructions of Elementary Functions for IoT Endpoint Devices
   <br>
   Yuxing Chen, **Xinrui Wang**, Suwen Song, Lang Feng, Zhongfeng Wang
