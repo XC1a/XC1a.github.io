@@ -34,7 +34,7 @@ Before this, I received my B.S. degree in Communication Engineering at Chongqing
 
 ## Awards
 
-- **[OCT. 2023]** Xiaomi Special Scholarship, *[by Xiao Corporation]*
+- **[OCT. 2023]** Xiaomi Special Scholarship, *[by Xiaomi Corporation]*
 - **[OCT. 2022/2023]** The First Prize Scholarship of Graduate Student, *[by Nanjing University]*
 - **[OCT. 2020]** National Inspiration Scholarship, *[by China Goverment]*
 - **[OCT. 2020]** The 3rd Prize of Intel Cup Undergraduate Electronic Deisgn Contest, *[by Intel Corporation]*
