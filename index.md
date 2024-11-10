@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a M.E. student at Nanjing University ([NJU](https://www.nju.edu.cn/en/)). I am working under the supervison with [Lang Feng](https://scholar.google.com/citations?hl=zh-CN&user=e9iLVAMAAAAJ) and [Zhongfeng Wang](https://scholar.google.com/citations?user=faC-qekAAAAJ&hl=zh-CN&oi=ao).
+I am a M.E. student at Nanjing University ([NJU](https://www.nju.edu.cn/en/)). I am working under the supervision of [Lang Feng](https://scholar.google.com/citations?hl=zh-CN&user=e9iLVAMAAAAJ) and [Zhongfeng Wang](https://scholar.google.com/citations?user=faC-qekAAAAJ&hl=zh-CN&oi=ao).
 
-Before this, I received my B.S. degree in Communication Engineering at Chongqing University ([CQU](https://english.cqu.edu.cn/)).
+Before this, I received my B.E. degree in Communication Engineering at Chongqing University ([CQU](https://english.cqu.edu.cn/)).
 
 ## Research Interests
 
