@@ -13,7 +13,7 @@ Before this, I received my B.E. degree in Communication Engineering at Chongqing
 - **Computer Architecture Security:** hardware-assisted security, trusted execution environment, chiplet interconnecting system
 
 ## Publications
-- **[TCAD24]** PreSIT: Predict Cryptography Computations in SGX-Style Integrity Trees (Early Access)
+- **[TCAD24]** PreSIT: Predict Cryptography Computations in SGX-Style Integrity Trees
   <br>
   **Xinrui Wang**, Lang Feng, Zhongfeng Wang
   <br>
