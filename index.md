@@ -29,7 +29,7 @@ Before this, I received my B.E. degree in Communication Engineering at Chongqing
   <br>
   **Xinrui Wang**, Lang Feng, Zhongfeng Wang
   <br>
-  [[Paper](https://ieeexplore.ieee.org/document/10110921)]
+  [[Paper](https://ieeexplore.ieee.org/document/10110921)] [[github](https://github.com/XC1a/ProMiS)]
 
 
 ## Awards
