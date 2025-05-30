@@ -17,7 +17,7 @@ Before this, I received my B.E. degree in Communication Engineering at Chongqing
   <br>
   **Xinrui Wang**, Lang Feng, Zhongfeng Wang
   <br>
-  [[Paper](https://ieeexplore.ieee.org/document/10643555)]
+  [[Paper](https://ieeexplore.ieee.org/document/10643555)] [[Github](https://github.com/XC1a/PreSIT)]
 
 - **[TC24]** RISC-V Custom Instructions of Elementary Functions for IoT Endpoint Devices
   <br>
