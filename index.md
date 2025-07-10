@@ -4,15 +4,26 @@ layout: homepage
 
 ## About Me
 
-I am a M.E. student at Nanjing University ([NJU](https://www.nju.edu.cn/en/)). I am working under the supervision of [Lang Feng](https://scholar.google.com/citations?hl=zh-CN&user=e9iLVAMAAAAJ) and [Zhongfeng Wang](https://scholar.google.com/citations?user=faC-qekAAAAJ&hl=zh-CN&oi=ao).
+I graduated as a M.E. student from Nanjing University ([NJU](https://www.nju.edu.cn/en/)), where I was working under the supervision of [Lang Feng](https://scholar.google.com/citations?hl=zh-CN&user=e9iLVAMAAAAJ) and [Zhongfeng Wang](https://scholar.google.com/citations?user=faC-qekAAAAJ&hl=zh-CN&oi=ao).
 
 Before this, I received my B.E. degree in Communication Engineering at Chongqing University ([CQU](https://english.cqu.edu.cn/)).
+
+Now, I keep on researches on microarchitecture security.
 
 ## Research Interests
 
 - **Computer Architecture Security:** hardware-assisted security, trusted execution environment, chiplet interconnecting system
 
 ## Publications
+
+### Journal
+
+- **[TODAES25]** Resister: A Resilient Interposer Architecture for Chiplet to Mitigate Timing Side-Channel Attacks
+  <br>
+   **Xinrui Wang**, Lang Feng, Yujie Wang, Taotao Xu, Yinhe Han, Zhongfeng Wang
+  <br>
+  [[Paper](https://dl.acm.org/doi/10.1145/3748258)] [
+
 - **[TCAD24]** PreSIT: Predict Cryptography Computations in SGX-Style Integrity Trees
   <br>
   **Xinrui Wang**, Lang Feng, Zhongfeng Wang
