@@ -22,7 +22,7 @@ Now, I keep on researches on microarchitecture security.
   <br>
    **Xinrui Wang**, Lang Feng, Yujie Wang, Taotao Xu, Yinhe Han, Zhongfeng Wang
   <br>
-  [[Paper](https://dl.acm.org/doi/10.1145/3748258)] [
+  [[Paper](https://dl.acm.org/doi/10.1145/3748258)]
 
 - **[TCAD24]** PreSIT: Predict Cryptography Computations in SGX-Style Integrity Trees
   <br>
