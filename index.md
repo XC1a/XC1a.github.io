@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
+I am currently a PhD student at Ruhr-Universität Bochum, advised by [Yuval Yarom](https://yuval.yarom.org/).
+
 I graduated as an M.E. student from Nanjing University ([NJU](https://www.nju.edu.cn/en/)).
 
 Before this, I received my B.E. degree in Communication Engineering at Chongqing University ([CQU](https://english.cqu.edu.cn/)).
-
-I am currently a PhD student at Ruhr-Universität Bochum, advised by [Yuval Yarom](https://yuval.yarom.org/).
 
 
 ## Publications
