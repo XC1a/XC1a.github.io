@@ -8,7 +8,7 @@ I graduated as an M.E. student from Nanjing University ([NJU](https://www.nju.ed
 
 Before this, I received my B.E. degree in Communication Engineering at Chongqing University ([CQU](https://english.cqu.edu.cn/)).
 
-Now, I keep on researching computer architecture and microarchitecture.
+I am currently a PhD student at Ruhr-Universität Bochum, advised by [Yuval Yarom](https://yuval.yarom.org/).
 
 
 ## Publications
