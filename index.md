@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a PhD student at Ruhr-Universität Bochum, advised by [Yuval Yarom](https://yuval.yarom.org/).
+I am currently a PhD student at Ruhr-Universität Bochum, advised by [Yuval Yarom](https://yuval.yarom.org/) and [Christof Paar](https://www.mpi-sp.org/paar).
 
 I graduated as an M.E. student from Nanjing University ([NJU](https://www.nju.edu.cn/en/)).
 
