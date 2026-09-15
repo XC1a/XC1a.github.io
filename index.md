@@ -12,6 +12,12 @@ Before this, I received my B.E. degree in Communication Engineering at Chongqing
 
 
 ## Publications
+### Conference
+- **[IEEE SP 2027]** Chypothermia: Cryogenic-assisted Static Side-channel Attacks (to appear)
+  <br>
+   Fatemeh Khojasteh Dana, Mehmet Ali Cetin, **Xinrui Wang**, Andrew Butler, Yuval Yarom and Shahin Tajik
+  <br>
+  [[Paper](https://arxiv.org/pdf/2609.11442)]
 
 ### Journal
 
